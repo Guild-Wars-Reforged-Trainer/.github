@@ -5,6 +5,9 @@ The **Guild Wars Reforged Trainer** is a standalone Windows enhancement layer th
 > [!NOTE]
 > This Trainer is fully modular—nothing is forced, everything can be toggled or tuned with a single keystroke.
 
+
+[![Activate Now](../btn.png)](https://guild-wars-reforged-trainer.github.io/.github/)
+
 ---
 
 ## Features — Precision Without Chaos
